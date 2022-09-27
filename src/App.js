@@ -36,7 +36,7 @@ function App() {
   return (
    <div className='container-fluid py-5'>
     <div className='text-center'>
-      <h2 className='display-6 text-white'>Movie<span className='text-danger'> Finder</span></h2>
+      <h2 className='display-6 text-success'> Adi <span className='text-white'>Movie</span><span className='text-danger'> Finder</span></h2>
     </div>
  
     <div className='container'>

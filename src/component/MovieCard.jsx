@@ -53,7 +53,7 @@ const MovieCard = ({ movie }) => {
                 <div className="btn m-2 p-2 bg-orange-400 hover:bg-orange-600 active:bg-orange-800 text-center px-5 text-white hover:text-white hover:text-lg" onClick={handleClose}  >Go Back</div>
               }
             </div>
-            <span className=' text-sm text-gray-700'>@ Created by Adi</span>
+            <span className=' text-sm text-gray-700'>@ Created by Aditya shekhar</span>
           </div>
         </DialogContent>
       </Dialog>
